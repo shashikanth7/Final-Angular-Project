@@ -1,0 +1,30 @@
+
+<body>
+  <h1>Welcome, esteemed administrator</h1>
+  <div class="wrapper">
+    
+<div class="rform">
+    <h3>Post Memes</h3>
+    <form [formGroup]="feedbackForm" (submit)="saveFeedback()">
+      <table>
+        <tr>
+          <th>Memes</th>
+          <td>
+            <label for="file-upload">Click to upload a file</label>
+            <input type="file" id="file-upload" formControlName="image">
+          </td>
+          <td>
+            <div *ngIf='feedbackForm.controls.image.hasError("required")'></div>
+            <div *ngIf='feedbackForm.controls.image.hasError("minlength")'></div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="text-align:center">
+            <button type="submit" class="btn btn-primary" [disabled]="feedbackForm.valid">Submit</button>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </div>
+</div>
+</body>

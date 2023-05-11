@@ -1,0 +1,8 @@
+<h2 [style.color]="'darkgray'" [style.padding]="'10px'">
+    People Think's   <button mat-button (click)="openDialog()">comment</button>
+    </h2>
+    
+<app-feedback-box 
+*ngFor="let x of feedbacks"
+ [feedback]="x"></app-feedback-box>
+ 

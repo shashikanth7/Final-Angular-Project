@@ -1,0 +1,19 @@
+.example-card {
+    max-width: 100%;
+    max-height:2%;
+    border: .5px solid black;
+    margin: .5rem auto;
+    background-color:#fff4f4;
+}
+.txt{
+    margin: .5rem;
+    font-size: 1rem;
+}
+.tp{
+    float: right;
+    font-size: .8rem;
+    margin: .5rem;
+}
+.par{
+    text-align: left;
+}

@@ -1,0 +1,14 @@
+<div class="pr">
+<div class="features">
+    <div class="category">
+        <select [(ngModel)]="type">
+            <option *ngFor="let x of options">{{x}}</option>
+        </select>
+    </div>
+    
+    
+</div>
+
+<app-personalty-box *ngFor="let g of servicelist1 | filtertype:type" [type2]="g"></app-personalty-box>
+
+</div>

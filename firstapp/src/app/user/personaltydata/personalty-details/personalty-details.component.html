@@ -1,0 +1,22 @@
+<div class="pd">
+    <div class="te">
+        <div class="box-container-te">
+     <b>{{list1.type}}</b><br>
+     {{list1.sub_heading}}<br><br>
+      {{list1.normal_heading}}
+    </div>
+
+  
+
+
+    </div>
+    <div class="service-box">
+      <div class="image-holder">
+        <img src="http://localhost/{{list1.image}}">
+      </div>
+    </div>
+    <div>
+      <p *ngFor="let x of list1.normal_heading">{{x}}</p>
+    </div>
+</div>
+  

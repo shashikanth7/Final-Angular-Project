@@ -1,0 +1,69 @@
+<div class="pd">
+<form [formGroup]="mbtiForm" (ngSubmit)="calculateMBTI()">
+    <p>1. When you socialize with a group of people:</p>
+    <input type="radio" formControlName="q1" id="q1a" value="E">
+    <label for="q1a">a. You enjoy meeting new people and tend to jump into conversations.</label><br>
+    <input type="radio" formControlName="q1" id="q1b" value="I">
+    <label for="q1b">b. You prefer to spend time with one or two people at a time or by yourself.</label><br>
+  
+    <p>2. When making decisions, you:</p>
+    <input type="radio" formControlName="q2" id="q2a" value="S">
+    <label for="q2a">a. Prefer to focus on concrete facts and details.</label><br>
+    <input type="radio" formControlName="q2" id="q2b" value="N">
+    <label for="q2b">b. Prefer to consider abstract concepts and possibilities.</label><br>
+  
+    <p>3. When under stress, you:</p>
+    <input type="radio" formControlName="q3" id="q3a" value="T">
+    <label for="q3a">a. Tend to rely on logic and reason to work through the problem.</label><br>
+    <input type="radio" formControlName="q3" id="q3b" value="F">
+    <label for="q3b">b. Tend to rely on your emotions and values to guide you.</label><br>
+  
+    <p>4. When completing a task or project, you:</p>
+    <input type="radio" formControlName="q4" id="q4a" value="J">
+    <label for="q4a">a. Prefer to have a plan and follow a schedule to complete the task.</label><br>
+    <input type="radio" formControlName="q4" id="q4b" value="P">
+    <label for="q4b">b. Prefer to have flexibility and adjust the plan as you go.</label><br>
+  
+    <p>5. In a group setting, you:</p>
+    <input type="radio" formControlName="q5" id="q5a" value="E">
+    <label for="q5a">a. Tend to speak up and be more vocal about your thoughts and opinions.</label><br>
+    <input type="radio" formControlName="q5" id="q5b" value="I">
+    <label for="q5b">b. Tend to listen more and prefer to observe and reflect before speaking.</label><br>
+  
+    <p>6. When learning something new, you:</p>
+    <input type="radio" formControlName="q6" id="q6a" value="S">
+    <label for="q6a">a. Prefer to learn by doing and having hands-on experiences.</label><br>
+    <input type="radio" formControlName="q6" id="q6b" value="N">
+    <label for="q6b">b. Prefer to learn by reading and studying.</label><br>
+  
+    
+  
+          <p>7. In your work or hobbies, you:</p>
+          <input type="radio" formControlName="q7" id="q7a"  value="T">
+          <label for="q7a">a. Prefer to have clear guidelines and follow established procedures.</label><br>
+          <input type="radio"  formControlName="q7" id="q7b" value="F">
+          <label for="q7b">b. Prefer to have the freedom to explore and experiment.</label><br>
+    
+          <p>8. In a conflict or disagreement, you:</p>
+          <input type="radio" formControlName="q8" id="q8a"  value="T">
+          <label for="q8a">a. Tend to approach the situation with a rational and logical mindset.</label><br>
+          <input type="radio"  formControlName="q8" id="q8b" value="F">
+          <label for="q8b">b. Tend to approach the situation with a focus on empathy and understanding others' perspectives.</label><br>
+    
+          <p>9. When approaching a task, you:</p>
+          <input type="radio" formControlName="q9" id="q9a"  value="J">
+          <label for="q9a">a. Prefer to have a clear and organized plan of action.</label><br>
+          <input type="radio" formControlName="q9" id="q9b" value="P">
+          <label for="q9b">b. Prefer to approach the task in a more spontaneous and flexible manner.</label><br>
+    
+          <p>10. When working with others, you:</p>
+          <input type="radio" formControlName="q10"  id="q10a"  value="E">
+          <label for="q10a">a. Enjoy collaborating and working in a team environment.</label><br>
+          <input type="radio" formControlName="q10" id="q10b"  value="I">
+          <label for="q10b">b. Prefer to work independently and have control over your own tasks and projects.</label><br>
+    
+  
+    <br>
+    <button type="submit">Submit</button>
+  </form></div>
+  

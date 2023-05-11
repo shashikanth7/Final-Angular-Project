@@ -1,0 +1,451 @@
+{
+  "Blog": [
+    {
+      "id": 1,
+      "image": "INTJ_Meme.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 2,
+      "image": "ENTP_Meme_.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 3,
+      "image": "ENFP_Meme.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 4,
+      "image": "INTP_Meme.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 5,
+      "image": "INFJ_Meme.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 6,
+      "image": "INFP_Meme.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 7,
+      "image": "INFP1.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 8,
+      "image": "INT_Px_INTP.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 8,
+      "image": "INFJ_x_ENTP.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 9,
+      "image": "INTJ_x_ENTJ.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 10,
+      "image": "ENFP_x_INTJ1.WEBP",
+      "image_heading": null,
+      "normal_heading": null,
+      "type": "intj",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 6502,
+      "image": "imgpi.jpg",
+      "message": ""
+    }
+  ],
+  "details": [
+    {
+      "id": "1",
+      "fname": "shashikanth",
+      "lname": "Nuthanaganti",
+      "email": "shashikanthn19@saveetha.com",
+      "message": "Nothing more .........just giving feedback"
+    },
+    {
+      "id": "2",
+      "fname": "shashikanth1",
+      "lname": "nuthanaganti",
+      "email": "shashikanth1225@gmail.com",
+      "message": "gtoceries items are good ................................................................."
+    },
+    {
+      "id": "3",
+      "fname": "intj",
+      "lname": "nuthanaganti",
+      "email": "shashikanth1225@gmail.com",
+      "message": "............................................................."
+    }
+  ],
+  "persdetails": [
+    {
+      "id": 1,
+      "image": "ENFP.svg",
+      "image_heading": "The Inspirer",
+      "sub_heading": "ENFP: Extrovert iNtuitive Feeling Perceiving",
+      "normal_heading": "An ENFP is a happy, fun and outgoing personality, one that readily utilises their refined iNtuitive side, uses that as their mail tool throughout their life, and radiates their personality outwards into the world.  They also have very strong inner beliefs and strive to live their lives whereby everything is in line and congruent with that. They are particularly skilled at using their words, being gifted with a silver tongue that makes them able to deal with all situations and people they come across.  Their excitement, passion and creativity mean they are very interesting to be around, always looking for an adventure and up for trying new things.  This brings out the best in the people around them, making those people come out of their comfort zone and exploring the world around them.  As they say, the world is their oyster, and they most definitely live that way. The physics law that every action has an equal and opposite reaction is certainly the case with ENFPs.  Their great enthusiasm is equally matched by a need for some quality alone time in order for them to recharge and re-centre themselves.  When done correctly, this allows them to be able to follow their passions and hone their many skills with more focus and precision instead of getting swayed as much as they would do otherwise. ENFPs look into everyone and everything to find the purpose and values within them, as they do the same with themselves.",
+      "type": "About the The Inspirer",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 2,
+      "image": "ESFP.svg",
+      "image_heading": "The Performer",
+      "sub_heading": "ESFP: Extrovert Sensing Feeling Perceiving",
+      "normal_heading": "ESFPs are enthusiastic and fun-loving with a focus on living in the present moment.  They enjoy chaos and would seek to be at the forefront of the action and in the spotlight of attention, looking to make interesting connections with different people and have a good time with them. This makes their people-skills quite sharp and may sometimes be the mediators for many conflicts between others.  Their core beliefs are heavily weighted is care and empathy towards those around them and can be quite intuitive about what others are feeling and thinking relative to other types.  Looking to the future is not something ESFPs enjoy doing, however if you ever need practical assistance and support in the present moment, they are the best to go to. Their spontaneous nature and attitude of living in the present moment means they seek out immediate pleasures and sometimes don’t make careful considerations for the future or consequence of their actions.  They utilise all of their sense to reap the most enjoyment out of the moment they’re in and would do anything to not get any FOMO.  Therefore, they tend to be doing a wide range of multiple fun things at the same time and get lost in the moment, while pushing others to do the same thing.  Yet their generosity with time, energy and motivation is unmatched.",
+      "type": "About the The Performer"
+    },
+    {
+      "id": 3,
+      "image": "INFJ.svg",
+      "image_heading": "The Mystic",
+      "sub_heading": "INFJ: Introvert iNtuitive Feeling Judging",
+      "normal_heading": "INFJs are very kind, compassionate, intelligent and idealistic people.  They look the world from the best perspective, and the future with an even brighter one.  They feel the need to improve the world they live in, and nurturer those around them, and could sometime get let down by the bad that they see in the world, but still continue spreading positivity.  To them there is a message within everything, and they actively try to find it. Despite their introverted character they are very inviting, attracting people towards their comforting nature.  They place weight on make deep meaningful connections with people, yet they need to spend a good amount of alone time to recoup and recharge. Their love of order and systems means they are able to easily shift the priorities in their life as they change.  In addition, their refined intuition allows them to easily detect other people’s emotions and may even understand how that person is feeling before they do.  This sensitivity also comes with reservation, not readily expressing their deepest emotions.",
+      "type": "About the The Mystic"
+    },
+    {
+      "id": 4,
+      "image": "ISFJ.svg",
+      "image_heading": "The Nurturer",
+      "sub_heading": "ISFJ: Introvert Sensing Feeling Judging",
+      "normal_heading": "ISFJs have a warm caring nature and attention to detail meaning they are able help people in a very practical and tangible sense.  They look for the best in others and try to bring it out in them, while striving to create a cooperative and harmonious world, all made easier by their sensitivity to other people's feelings. Their personality tends to be quite paradoxically as they can be quiet and reserved yet have excellent interpersonal skills; they are in touch with their feelings yet greatly focused on details.  They follow traditions not just for the sake of it but use it towards helping others.  ISFJs are unlikely to try something new unless it has been proven to work.  As long as the traditions and tasks they follow are in line with their inner core values they are more than happy to see them to completion. This type's attention to detail may sometimes mean that it'll take them time to finish a task, however they'll definitely get it done and properly.  As a result, they may always go the extra mile while putting a personal altruistic twist.",
+      "type": "About the The Nurturer"
+    },
+    {
+      "id": 5,
+      "image": "ESTP.svg",
+      "image_heading": "The Dynamo",
+      "sub_heading": "ESTP: Extrovert Sensing Thinking Perceiving",
+      "normal_heading": " ESTPs action driven personality brings out all the energy within them.  Constantly talkative, funny and flirtatious with everyone, their sense of humour is always entertaining and keeps people extremely alert with enthusiasm.  They are the popular ones at parties, and you’ll usually see people flocking to be near them.  This is something they enjoy as they like being in the spotlight and will do so literally if they have the opportunity. Their bubbly sociable personality is combined with directness and risk-seeking behaviour means there are willing to jump right in the middle of any situation especially if it is in the moment.  They are very skilled at analysing situations at a quick glance and making decision in the moment of what needs to be done without hesitation. ESTPs can sense of perception is so in tune that they can sense even the slightest changes around them, whether it is in people or situations.  This means they usually have position advantage relative to everybody else which they use to benefit themselves.  That is because they do not feel bound by rules as some other types do, only generic pointers. That being said, their disregard for rules can sometimes end up hurting people.",
+      "type": "About the The Dynamo"
+    },
+    {
+      "id": 6,
+      "image": "ISTJ.svg",
+      "image_heading": "The Inspector",
+      "sub_heading": "ISTJ: iNtuitive Sensing Thinking Judging",
+      "normal_heading": "ISTJs would make great Inspectors due to their serious character and meticulous attention to detail, and everything they do serves its specific purpose.  They can be quite reserved but have the perseverance to see things through and observe at the world with a logical mind. Their value for stability and a desire to exist in harmony.  With a knack for being organised and powerful inner core values to help, they can put these qualities towards any task they undertake and come out the other end victorious. Rules are rules, and they believe that everybody should follow them in order to maintain some sense of security in life.  They will gravitate towards environments that set clear roles for them and for others, and with their admirable reliability they strive to do traditions justice. On the other hand, when they let their hair down ISTJs have a quirky sense of humour and can be great company at occasions and with people they hold dear. ",
+      "type": "About the The Inspector"
+    },
+    {
+      "id": 7,
+      "image": "INTJ.svg",
+      "image_heading": "The startegist",
+      "sub_heading": "INTJ: Introvert iNtuitive Thinking Judging",
+      "normal_heading": "Their strategic logical thinking makes INTJs very tactical and creativity, especially when it comes to the detail-orientated topics.  They have minds that are quick to rationalise people and situations and are capable of constantly analysing all the is going on. INTJs are full of ideas and always looking for new innovative ones, which is why they put a lot of weight on intelligence and competence, whilst giving less regard to emotions and relationships, making them seem a little unsociable and distant.  They have confidence in themselves and their skills and wait for others to recognise that too. Their unquenchable thirst for knowledge is indicative of how much importance they place on ideas and information, because they see knowledge as tools, and with the right tool and will, one can achieve anything. ",
+      "type": "About the The Strategist"
+    },
+    {
+      "id": 8,
+      "image": "INFP.svg",
+      "image_heading": "The Dreamer",
+      "sub_heading": "INFP: Introvert iNtuitive Feeling Perceiving",
+      "normal_heading": "An INFP's idealistic character is put towards making the world a better place and improving people's lives.  Their main drive in life is to leave a positive mark on the world and other people.  They appear quiet and reserved, however on the inside they are beaming with energy, excitement and enthusiasm.  This is combined with a great sensory acuity, all of which comes together to create vibrant and creative imaginations within their minds. Following on from their sensory abilities and intuition, they are able to sense people's feelings very well and dive deep to search & find the truth about them, as well as everything else in the universe.  Using these skills, they put them towards ultimately helping others. It is more difficult for them to fake and pretend to be someone else.  They seek to express themselves truly, so that would be counterintuitive to their main drives.  Their want for expressing themselves make them great in artistic fields. ",
+      "type": "About the The Dreamer"
+    },
+    {
+      "id": 9,
+      "image": "ISTP.svg",
+      "image_heading": "The Craftsman",
+      "sub_heading": "ISTP: iNtuitive Sensing Thinking Perceiving",
+      "normal_heading": "With an aptitude for mechanics and working with tools, and their untethered thinking, ISTPs are able to discover the world great curiosity and adaptability.  They aspire to learn more about how things operate and are excellent at analysing objectively especially specifically when it comes to applying these analyses practically.  They're the type of people who want to dismantle everything to look inside and understand how they work. As a result, they are usually masters of using tools as well as transforming their uses for different practical purposes.  Their interest doesn't lie in concepts and theories, but instead in the immediate application of the new knowledge they have acquired.  It would make sense that they love adventure and are always up for outdoor adrenaline-pumping activities.  This drive to always be doing something physical and practical makes them very independent individuals with a strong aversion to rules and hate feeling stuck or restrained. Nevertheless, they do abide by their own moral code and are very loyal especially to those they deem to be close to.  They're fair & just, and the believe everyone should be who they want to be ",
+      "type": "About the The Craftsman"
+    },
+    {
+      "id": 10,
+      "image": "ENTP.svg",
+      "image_heading": "The Visionary",
+      "sub_heading": "ENTP: Extrovert iNtuitive Thinking Perceiving",
+      "normal_heading": "Creative, intelligent and innovate, ENTPs love harnessing their minds and tackling conceptual problems with elegant solutions.  They are able to adapt and mould their thinking with such each, and their brainpower matches their willpower in the sense that they will stop at nothing to achieve the aims they are after. Their large capacity for the constant inflow of information allows them to look at the world through that information and analyse it with quick precision.  As a result, they are able to understand concepts and people at a fundamental level with ease, and their adaptability makes them ideal to almost any situation or position which require crisis resolution. Additionally, when they come up with an inspired idea, they attempt to harness the enthusiasm of others in the shared goal of fulfilling them. They are less detail orientated and prefer to keep such tasks to others who are more apt at fulfilling them.  Instead, they like to come up with creative conceptual to complex systems or problems, and leave the groundwork to others.  If they ever have to get bogged down in the details, they may get discouraged and end up not following through with the task they’re carrying out. ",
+      "type": "About the The Visionary"
+    },
+    {
+      "id": 11,
+      "image": "ESFJ.svg",
+      "image_heading": "The Guardian",
+      "sub_heading": "ESFJ: Extrovert Sensing Feeling Judging",
+      "normal_heading": "ESFJs are people-orientated individuals who aim to guide, motivate, inspire and lead others to achieving their goals.  They are skilled are intuitive understanding others and would use that skill to bring out the best in people and make them feel their best.  As they are attracted to guidelines and general practical knowledge, they would use those to help mentor others on how best to achieve their goals, whilst constantly supporting them. This means they view themselves in positions of responsibility and need to be relied on by others, hence they will do whatever it takes to fulfil their duties.  Gifted with being able to quickly view the required paths needed to be taken, they would usually take the initiative to follow those paths and complete the required tasks using a great deal of structure and order, two of the things which they enjoy most. Their kind, inviting and exciting personality draws people to them, which is something that they crave.  Therefore, they tend to take up roles in which they can help and provide assistance to people. Others’ appreciation of them is very important to ESFJ. As they are so accommodating to others they sometimes cannot or do not want to see or understand the lack of kindness and harsh truth about others ",
+      "type": "About the The Guardian"
+    },
+    {
+      "id": 12,
+      "image": "ENFJ.svg",
+      "image_heading": "The Protagonist",
+      "sub_heading": "ENFJ: Extrovert iNtuitive Feeling Judging",
+      "normal_heading": "ENFJs, the people-oriented organised helpers who aim to improve people’s lives and wellbeing are gifted in humanitarianism from making each person’s individual life at least just that little bit better, to making a huge impact on improving people’s lives on around the world.  Not only that, but they are also talented getting others motivated on that aim. Their people-skills extend to their acute intuition of what others are feeling, thinking and need.  That makes them able to get very close to other peoples’ hearts, look straight into their souls to understanding their intentions, drives and their core principles.  Using that easily accessible information to them, they are able to effectively persuade and motivate those they interact with, allowing them to bring out the greatest side of every person.  This allows them to be able to do the noble thing every time the opportunity presents itself. Recharging is especially important to ENFJs.  This they are so in tune with the outside worlds and other people, they need some much-needed alone time for some TLC. ",
+      "type": "About the The Protagonist"
+    },
+    {
+      "id": 13,
+      "image": "ESTJ.svg",
+      "image_heading": "The Excutive",
+      "sub_heading": "ESTJ: Extrovert Sensing Thinking Judging",
+      "normal_heading": "ESTJs are well grounded in the tradition of how things should be done, and what is considered to be acceptable.  They are a reference for guidance and supervision, giving clear and solid direction to those who seek or need it.  When the going gets tough, they will gladly be on the front line leading the way by example and have a strong sense of correct way a task should be complete.  Their strong family and community values means they are always working to bring people together. Using clear logical and facts, ESTJs are very in touch with reality and always away of the everything going on around them.  As soon as they sense an adjustment needs to be made, they will step in to ensure everything runs a smooth as possible.  Authority is just as respected by them as tradition, and they will stick to those values even in the face of resistance or adversity. ",
+      "type": "About the The Executive"
+    },
+    {
+      "id": 14,
+      "image": "INTP.svg",
+      "image_heading": "The Thinker",
+      "sub_heading": "INTP: Introvert iNtuitive Thinking Perceiving",
+      "normal_heading": "These highly intuitive thinkers are always putting a personal creative twist on everything they do. They are always looking at the world and the universe with a wondering eye, thinking and analysing what could be.  That makes their personality very unique, which is a good thing that they are not afraid to be a nail that sticks out. If people can see inside an INTP's head they will notice that they are always thinking of possibilities, trying to draw on any information and knowledge that they can get their hands on in order to further their understanding.  They may seem to zone out and not be present all the time, and that's because there's a lot of creativity going on in their minds. Their pursuit of knowledge, logic and information means that they're sometimes oblivious to the world around, including other people's emotions and feelings. They don't intentionally want to be emotionally distant and would love to be able to support the ones they care about.  However, understanding human nature is one of their weaknesses.  This could be difficult for them as they are unable to easily form connections with people. ",
+      "type": "About the The Thinker"
+    },
+    {
+      "id": 15,
+      "image": "ENTJ.svg",
+      "image_heading": "The commander",
+      "sub_heading": "ENTJ: Extrovert iNtuitive Thinking Judging",
+      "normal_heading": "ENTJs are the Commanders of the personality world.  Their intrinsic ability to effectively lead and command people and teams is owed to their strategic thinking and organisational behaviour.  They seek out opportunities within which systems could be improved, and using their extensive problem-solving skills, they are able to implement efficient short- and long-term goals. Their skills as analysts and their clear objective reasoning make them direct in identify what is required to optimally achieve an aim, and their reasoning skills allow them to effectively relay that information onto all parties involved.  This is something that ENTJs enjoy, which make them all the better at working in managerial roles whereby they can lead people on such quests. With their built-in ability to lead, they look out into the world and see all kinds of opportunities and potential metaphorical mountains to climb.  At the end of the day, they gain satisfaction from being recognised as those who were able to jump those hurdles, while using their thirst for knowledge, unwavering decision-making, and commanding attitude to achieve those goals.",
+      "type": "About the The Commander"
+    },
+    {
+      "id": 16,
+      "image": "ISFP.svg",
+      "image_heading": "The Advanturer",
+      "sub_heading": "ISFP: Introvert Sensing Feeling Perceiving",
+      "normal_heading": "ISFPs are one of the most artistic personality types with them being in tune into their senses and the world around them they have a love for aesthetics and are always attracted to the artist side of the world.  Their strong inner core values means whatever they do has to be in line with that otherwise they'll react very strongly to it and distance themselves from the situation.  Being open minded in combination with their awareness of their senses means they are always up for trying new experiences. They are masters of manipulation but in a good way, sensing things that are around them and playing around with them to create something new and different and beautiful.  This makes them great painters and sculptures as they're able to mould the environmental around them to express themselves to the fullest.  Their experimental nature means that they are full of surprises and quite spontaneous.",
+      "type": "About the The Adventurer"
+    }
+  ],
+  "personalty-types": [
+    {
+      "id": 1,
+      "image": "ENFP.svg",
+      "image_heading": "The Inspirer",
+      "normal_heading": "Click here to read the full personality type description",
+      "type": "ENFP",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 2,
+      "image": "ESFP.svg",
+      "image_heading": "The Performer",
+      "normal_heading": null,
+      "type": "ESFP",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 3,
+      "image": "INFJ.svg",
+      "image_heading": "The Mystic",
+      "normal_heading": null,
+      "type": "INFJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 4,
+      "image": "ISFJ.svg",
+      "image_heading": "The Nurturer",
+      "normal_heading": null,
+      "type": "ISFJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 5,
+      "image": "ESTP.svg",
+      "image_heading": "The Dynamo",
+      "normal_heading": null,
+      "type": "ESTP",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 6,
+      "image": "ISTJ.svg",
+      "image_heading": "The Inspector",
+      "normal_heading": null,
+      "type": "ISTJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 7,
+      "image": "INTJ.svg",
+      "image_heading": "The startegist",
+      "normal_heading": null,
+      "type": "INTJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 8,
+      "image": "INFP.svg",
+      "image_heading": "The Dreamer",
+      "normal_heading": null,
+      "type": "INFP",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 9,
+      "image": "ISTP.svg",
+      "image_heading": "The Craftsman",
+      "normal_heading": null,
+      "type": "ISTP",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 10,
+      "image": "ENTP.svg",
+      "image_heading": "The Visionary",
+      "normal_heading": null,
+      "type": "ENTP",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 11,
+      "image": "ESFJ.svg",
+      "image_heading": "The Guardian",
+      "normal_heading": null,
+      "type": "ESFJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 12,
+      "image": "ENFJ.svg",
+      "image_heading": "The Protagonist",
+      "normal_heading": null,
+      "type": "ENFJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 13,
+      "image": "ESTJ.svg",
+      "image_heading": "The Excutive",
+      "normal_heading": null,
+      "type": "ESTJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 14,
+      "image": "INTP.svg",
+      "image_heading": "The Thinker",
+      "normal_heading": null,
+      "type": "INTP",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 15,
+      "image": "ENTJ.svg",
+      "image_heading": "The commander",
+      "normal_heading": null,
+      "type": "ENTJ",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 16,
+      "image": "ISFP.svg",
+      "image_heading": "The Advanturer",
+      "normal_heading": null,
+      "type": "ISFP",
+      "date": "2023-04-30"
+    }
+  ],
+  "UserData": [
+    {
+      "email": "shashikanth1225@gmail.com",
+      "username": "shashi",
+      "password": "123456",
+      "type": "user",
+      "id": 1
+    },
+    {
+      "email": "Admin",
+      "username": "1234567",
+      "password": "123456",
+      "type": "Admin",
+      "id": 2
+    },
+    {
+      "email": "Admin@gmail.com",
+      "username": "shashi2",
+      "password": "123456",
+      "type": "Admin",
+      "id": 3
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 7218,
+      "name": "shashikanth",
+      "type": "Branding and Communication",
+      "message": "this website is very nice ..."
+    },
+    {
+      "id": 7593,
+      "name": "N.shashikanth",
+      "type": "Branding and Communication",
+      "message": "nice ........................."
+    },
+    {
+      "id": 7140,
+      "name": "shark",
+      "type": "Branding and Communication",
+      "message": "hi........................."
+    },
+    {
+      "id": 6120,
+      "name": "suresh",
+      "type": "Branding and Communication",
+      "message": "hii..............."
+    }
+  ],
+  "forum": [
+    {
+      "id": 2,
+      "question": "which Mbit is more cool?",
+      "responses": [
+        "ENFP "
+      ]
+    },
+    {
+      "question": "is time travel possible ?",
+      "responses": [
+        "yes its possible  .but only we can travel into future we cant travel to past "
+      ],
+      "id": 3
+    },
+    {
+      "question": "hii",
+      "responses": [],
+      "id": 4
+    }
+  ]
+}

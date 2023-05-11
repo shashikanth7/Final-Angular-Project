@@ -1,0 +1,14 @@
+.rform{
+    height: 20%;
+    width: 90%;
+    
+    padding: 10px;
+    margin:10px;
+    margin-left: 1%;
+    
+}
+textarea
+{
+    width:168px;
+    height:40px;
+}
